@@ -4,9 +4,14 @@ Separate statische Umsetzung der [FeToMa-Website](https://www.fetoma-vt.de/), ge
 
 **Nichts veröffentlicht. Keine Änderungen an Domain, DNS oder bestehenden Konten.**
 
+## Hosting und fehlende Angaben
+
+- [Vercel einrichten und kostenlose Alternative](docs/README-VERCEL.md): Build-Konfiguration ist vorbereitet. Vercel Hobby ist für die geschäftliche FeToMa-Seite nicht zulässig; passende Tarife und eine kostenlose Alternative sind mit aktuellen Quellen dokumentiert.
+- [Noch fehlende Website-Informationen](README-OFFENE-INFORMATIONEN.md): Fragen zu Mietdauer, Lieferung, Bedingungen, Bildern und den Rechtstexten für einen neuen Host.
+
 ## Lokal ansehen
 
-Voraussetzung: aktuelles Node.js. Beim ersten Start:
+Voraussetzung: Node.js **26.x** (auch in `.nvmrc` hinterlegt). Beim ersten Start:
 
 ```bash
 npm ci
@@ -51,11 +56,6 @@ Die Prüfung erfolgte mit Browserfenstern in den genannten Größen, nicht auf p
 
 ## Offene Angaben und fehlende Originaldateien
 
-- **Blowup-Zelt:** 250 € sind bestätigt. Der Geltungsbereich des am Ende der Angebotsseite stehenden Hinweises „Mietpreise pro Tag“ ist für dieses separate Paket nicht eindeutig. Deshalb wird keine eigene Mietdauer behauptet. Auch die Mietdauer des zusätzlichen 100-€-Musik-Lichtpakets muss geklärt werden.
-- **Lieferung:** 10 km kostenlos und danach 0,30 €/km wurden übernommen. Bezugspunkt, einfache/gesamte Strecke sowie sonstige Fahrtkosten sind nicht näher beschrieben.
-- **Techniksets/Einzelmiete:** Preise auf Anfrage; keine zusätzlichen Kautionen, Steuerangaben, Mindestmietzeiten, Verfügbarkeits- oder Reaktionszusagen ergänzt. „Barzubehör“ wird in der Referenz genannt, konkrete Artikel fehlen.
-- **Bilder:** Produktfotos für den 3×3-m-Pavillon und den 6×3-m-Faltpavillon fehlen. Statt fremder Produktbilder stehen eindeutig bezeichnete Größenskizzen. Für das 12×6-m-Zelt liegt nur das vorhandene kleine Bild (360×140 px) vor; ein größeres Original wäre hilfreich.
-- **Dekoration:** Die Angabe „Bunte Vasen – Durchmesser 2cm“ wurde unverändert übernommen und sollte inhaltlich bestätigt werden.
-- **Rechtstexte:** Die bestehende Datenschutzerklärung (Stand 11.06.2025) beschreibt auch das bisherige Hosting. Für einen späteren Wechsel müssten Betreiber und zuständige Fachperson die tatsächlichen Dienste und Texte abstimmen. Hier wurde nichts eigenmächtig rechtlich umformuliert.
+Die zentrale Liste steht in [README-OFFENE-INFORMATIONEN.md](README-OFFENE-INFORMATIONEN.md). Sie enthält die noch zu bestätigenden Mietdauern, Fahrtkosten, Bedingungen und Produktangaben, fehlende Fotos sowie die Abhängigkeiten von Jimdo bei Cookie-Richtlinie und Widerruf. Für ein neues Hosting müssen die Rechtstexte fachlich abgestimmt werden; sie wurden hier nicht eigenmächtig umformuliert.
 
 Quellensicherung: `reference/` enthält die öffentlich abrufbaren Seiten, Bildherkünfte und die ausgelesene Originalpalette. Diese Dateien werden nicht in die auslieferbare Website kopiert. Alle fachlichen Angaben stammen aus der Referenz; es wurden keine Bewertungen, Gästezahlen, Einsatzregionen oder Leistungsversprechen erfunden. Die Zahl im automatisierten Kontaktformular-Test ist ausschließlich ein lokaler Testwert.
