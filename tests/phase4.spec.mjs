@@ -1,0 +1,10 @@
+import {test,expect} from '@playwright/test';
+for(const width of [360,390,768,1440])test(`Phase 4: Kontakt und Privatsphäre ${width}px`,async({page})=>{
+ await page.setViewportSize({width,height:900});const external=[];page.on('request',req=>{if(!req.url().startsWith('http://127.0.0.1:4173'))external.push(req.url());});await page.goto('/kontakt/');
+ await page.getByLabel('Dein Interesse').selectOption('Set 2');await page.getByLabel('Datum (optional)').fill('2027-02-20');await page.getByLabel('Ort (optional)').fill('Testort');await page.getByLabel('Anlass (optional)').fill('Geburtstag');await page.getByLabel('Gästezahl (optional)').fill('42');await page.getByRole('button',{name:'Nachricht vorbereiten'}).click();
+ const prepared=page.locator('#prepared-text');await expect(prepared).toHaveValue(/„Set 2“[\s\S]*Datum: 20.02.2027\nOrt: Testort\nAnlass: Geburtstag\nGästezahl: 42/);const href=await page.locator('#prepared-link').getAttribute('href');const url=new URL(href);expect(url.hostname).toBe('wa.me');expect(url.pathname).toBe('/491719108314');expect(url.searchParams.get('text')).toContain('Set 2');
+ expect(external).toEqual([]);await expect(page.locator('a[href="tel:+491719108314"]').first()).toBeVisible();await expect(page.locator('a[href="mailto:fetoma-vt@web.de"]')).toBeVisible();
+ await page.locator('footer [data-cookie-open]').click();await expect(page.locator('#cookie-panel')).toBeVisible();await page.getByRole('button',{name:'Nur erforderliche'}).click();await expect(page.locator('#cookie-panel')).toBeHidden();expect(await page.evaluate(()=>JSON.parse(localStorage.getItem('fetoma-privacy')).choice)).toBe('necessary');
+ await page.locator('footer [data-cookie-open]').click();await page.getByRole('button',{name:'Alle verfügbaren akzeptieren'}).click();expect(await page.evaluate(()=>JSON.parse(localStorage.getItem('fetoma-privacy')).choice)).toBe('all');expect(external).toEqual([]);
+ expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
+});

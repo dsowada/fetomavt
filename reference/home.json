@@ -1,0 +1,210 @@
+{
+  "page": "home",
+  "images": [
+    {
+      "class": "WCO6N DBTrh",
+      "style": "width:100%",
+      "draggable": "false",
+      "srcset": "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=1600,height=900/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 1600w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=1440,height=810/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 1440w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=1280,height=720/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 1280w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=1024,height=576/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 1024w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=800,height=450/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 800w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=640,height=360/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 640w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=480,height=270/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 480w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=320,height=180/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 320w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=160,height=90/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 160w",
+      "sizes": "(min-width:1441px) 20vw,(min-width:1281px) 30vw,(min-width:801px) 50vw,(max-width:800px) 75vw,",
+      "alt": "",
+      "loading": "lazy"
+    },
+    {
+      "class": "WCO6N",
+      "draggable": "false",
+      "srcset": "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,width=1440,height=814/image/509021315/17c65b98-cde0-4056-8cb0-9b5bcdfd1bc6.jpg 1440w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,width=1280,height=723/image/509021315/17c65b98-cde0-4056-8cb0-9b5bcdfd1bc6.jpg 1280w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,width=1024,height=579/image/509021315/17c65b98-cde0-4056-8cb0-9b5bcdfd1bc6.jpg 1024w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,width=800,height=452/image/509021315/17c65b98-cde0-4056-8cb0-9b5bcdfd1bc6.jpg 800w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,width=640,height=362/image/509021315/17c65b98-cde0-4056-8cb0-9b5bcdfd1bc6.jpg 640w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,width=480,height=271/image/509021315/17c65b98-cde0-4056-8cb0-9b5bcdfd1bc6.jpg 480w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,width=320,height=181/image/509021315/17c65b98-cde0-4056-8cb0-9b5bcdfd1bc6.jpg 320w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,width=160,height=90/image/509021315/17c65b98-cde0-4056-8cb0-9b5bcdfd1bc6.jpg 160w",
+      "alt": "",
+      "loading": "lazy"
+    },
+    {
+      "class": "WCO6N",
+      "style": "width:100%",
+      "draggable": "false",
+      "srcset": "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=1600,height=900/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 1600w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=1440,height=810/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 1440w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=1280,height=720/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 1280w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=1024,height=576/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 1024w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=800,height=450/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 800w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=640,height=360/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 640w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=480,height=270/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 480w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=320,height=180/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 320w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=160,height=90/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 160w",
+      "sizes": "(min-width:1441px) 1440px,(min-width:1281px) 1280px,(max-width:900px) 100vw,(max-width:1440px) 900px",
+      "alt": "",
+      "loading": "lazy"
+    },
+    {
+      "class": "WCO6N",
+      "style": "width:100%",
+      "draggable": "false",
+      "srcset": "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=2560,height=2560/image/519049031/ecc89a77-52c5-4de9-9330-28c551f8b818.jpg 2560w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=1920,height=1920/image/519049031/ecc89a77-52c5-4de9-9330-28c551f8b818.jpg 1920w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=1600,height=1600/image/519049031/ecc89a77-52c5-4de9-9330-28c551f8b818.jpg 1600w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=1440,height=1440/image/519049031/ecc89a77-52c5-4de9-9330-28c551f8b818.jpg 1440w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=1280,height=1280/image/519049031/ecc89a77-52c5-4de9-9330-28c551f8b818.jpg 1280w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=1024,height=1024/image/519049031/ecc89a77-52c5-4de9-9330-28c551f8b818.jpg 1024w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=800,height=800/image/519049031/ecc89a77-52c5-4de9-9330-28c551f8b818.jpg 800w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=640,height=640/image/519049031/ecc89a77-52c5-4de9-9330-28c551f8b818.jpg 640w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=480,height=480/image/519049031/ecc89a77-52c5-4de9-9330-28c551f8b818.jpg 480w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=320,height=320/image/519049031/ecc89a77-52c5-4de9-9330-28c551f8b818.jpg 320w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=160,height=160/image/519049031/ecc89a77-52c5-4de9-9330-28c551f8b818.jpg 160w",
+      "sizes": "(min-width:1441px) 1440px,(min-width:1281px) 1280px,(max-width:900px) 100vw,(max-width:1440px) 900px",
+      "alt": "",
+      "loading": "lazy"
+    },
+    {
+      "class": "WCO6N",
+      "style": "width:80%",
+      "draggable": "false",
+      "srcset": "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=126;0;126;0,width=2048,height=2560/image/519050415/2a64ec73-70aa-41f7-a442-0c19e22c4a45.jpg 2048w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=126;0;126;0,width=1536,height=1920/image/519050415/2a64ec73-70aa-41f7-a442-0c19e22c4a45.jpg 1536w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=126;0;126;0,width=1280,height=1600/image/519050415/2a64ec73-70aa-41f7-a442-0c19e22c4a45.jpg 1280w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=126;0;126;0,width=1152,height=1440/image/519050415/2a64ec73-70aa-41f7-a442-0c19e22c4a45.jpg 1152w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=126;0;126;0,width=1024,height=1280/image/519050415/2a64ec73-70aa-41f7-a442-0c19e22c4a45.jpg 1024w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=126;0;126;0,width=819,height=1024/image/519050415/2a64ec73-70aa-41f7-a442-0c19e22c4a45.jpg 819w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=126;0;126;0,width=640,height=800/image/519050415/2a64ec73-70aa-41f7-a442-0c19e22c4a45.jpg 640w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=126;0;126;0,width=512,height=640/image/519050415/2a64ec73-70aa-41f7-a442-0c19e22c4a45.jpg 512w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=126;0;126;0,width=384,height=480/image/519050415/2a64ec73-70aa-41f7-a442-0c19e22c4a45.jpg 384w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=126;0;126;0,width=256,height=320/image/519050415/2a64ec73-70aa-41f7-a442-0c19e22c4a45.jpg 256w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=126;0;126;0,width=128,height=160/image/519050415/2a64ec73-70aa-41f7-a442-0c19e22c4a45.jpg 128w",
+      "sizes": "(min-width:1441px) 1440px,(min-width:1281px) 1280px,(max-width:900px) 100vw,(max-width:1440px) 900px",
+      "alt": "",
+      "loading": "lazy"
+    },
+    {
+      "class": "WCO6N",
+      "style": "width:100%",
+      "draggable": "false",
+      "srcset": "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;126;0;126,width=2560,height=2048/image/519050380/a94e4bcf-4154-47bc-9377-6c928cde2d2a.jpg 2560w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;126;0;126,width=1920,height=1536/image/519050380/a94e4bcf-4154-47bc-9377-6c928cde2d2a.jpg 1920w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;126;0;126,width=1600,height=1280/image/519050380/a94e4bcf-4154-47bc-9377-6c928cde2d2a.jpg 1600w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;126;0;126,width=1440,height=1152/image/519050380/a94e4bcf-4154-47bc-9377-6c928cde2d2a.jpg 1440w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;126;0;126,width=1280,height=1024/image/519050380/a94e4bcf-4154-47bc-9377-6c928cde2d2a.jpg 1280w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;126;0;126,width=1024,height=819/image/519050380/a94e4bcf-4154-47bc-9377-6c928cde2d2a.jpg 1024w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;126;0;126,width=800,height=640/image/519050380/a94e4bcf-4154-47bc-9377-6c928cde2d2a.jpg 800w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;126;0;126,width=640,height=512/image/519050380/a94e4bcf-4154-47bc-9377-6c928cde2d2a.jpg 640w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;126;0;126,width=480,height=384/image/519050380/a94e4bcf-4154-47bc-9377-6c928cde2d2a.jpg 480w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;126;0;126,width=320,height=256/image/519050380/a94e4bcf-4154-47bc-9377-6c928cde2d2a.jpg 320w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;126;0;126,width=160,height=128/image/519050380/a94e4bcf-4154-47bc-9377-6c928cde2d2a.jpg 160w",
+      "sizes": "(min-width:1441px) 1440px,(min-width:1281px) 1280px,(max-width:900px) 100vw,(max-width:1440px) 900px",
+      "alt": "",
+      "loading": "lazy"
+    },
+    {
+      "class": "WCO6N",
+      "style": "width:80%",
+      "draggable": "false",
+      "srcset": "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=2048,height=2560/image/519050436/c4e3cb6b-709d-4215-b764-99bac8898cf9.jpg 2048w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=1536,height=1920/image/519050436/c4e3cb6b-709d-4215-b764-99bac8898cf9.jpg 1536w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=1280,height=1600/image/519050436/c4e3cb6b-709d-4215-b764-99bac8898cf9.jpg 1280w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=1152,height=1440/image/519050436/c4e3cb6b-709d-4215-b764-99bac8898cf9.jpg 1152w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=1024,height=1280/image/519050436/c4e3cb6b-709d-4215-b764-99bac8898cf9.jpg 1024w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=819,height=1024/image/519050436/c4e3cb6b-709d-4215-b764-99bac8898cf9.jpg 819w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=640,height=800/image/519050436/c4e3cb6b-709d-4215-b764-99bac8898cf9.jpg 640w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=512,height=640/image/519050436/c4e3cb6b-709d-4215-b764-99bac8898cf9.jpg 512w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=384,height=480/image/519050436/c4e3cb6b-709d-4215-b764-99bac8898cf9.jpg 384w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=256,height=320/image/519050436/c4e3cb6b-709d-4215-b764-99bac8898cf9.jpg 256w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=128,height=160/image/519050436/c4e3cb6b-709d-4215-b764-99bac8898cf9.jpg 128w",
+      "sizes": "(min-width:1441px) 1440px,(min-width:1281px) 1280px,(max-width:900px) 100vw,(max-width:1440px) 900px",
+      "alt": "",
+      "loading": "lazy"
+    },
+    {
+      "class": "WCO6N",
+      "style": "width:80%",
+      "draggable": "false",
+      "srcset": "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=2048,height=2560/image/519050433/6a9e675d-85f4-4fa2-bcdb-67dca6996813.jpg 2048w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=1536,height=1920/image/519050433/6a9e675d-85f4-4fa2-bcdb-67dca6996813.jpg 1536w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=1280,height=1600/image/519050433/6a9e675d-85f4-4fa2-bcdb-67dca6996813.jpg 1280w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=1152,height=1440/image/519050433/6a9e675d-85f4-4fa2-bcdb-67dca6996813.jpg 1152w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=1024,height=1280/image/519050433/6a9e675d-85f4-4fa2-bcdb-67dca6996813.jpg 1024w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=819,height=1024/image/519050433/6a9e675d-85f4-4fa2-bcdb-67dca6996813.jpg 819w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=640,height=800/image/519050433/6a9e675d-85f4-4fa2-bcdb-67dca6996813.jpg 640w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=512,height=640/image/519050433/6a9e675d-85f4-4fa2-bcdb-67dca6996813.jpg 512w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=384,height=480/image/519050433/6a9e675d-85f4-4fa2-bcdb-67dca6996813.jpg 384w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=256,height=320/image/519050433/6a9e675d-85f4-4fa2-bcdb-67dca6996813.jpg 256w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=128,height=160/image/519050433/6a9e675d-85f4-4fa2-bcdb-67dca6996813.jpg 128w",
+      "sizes": "(min-width:1441px) 1440px,(min-width:1281px) 1280px,(max-width:900px) 100vw,(max-width:1440px) 900px",
+      "alt": "",
+      "loading": "lazy"
+    },
+    {
+      "class": "WCO6N",
+      "style": "width:80%",
+      "draggable": "false",
+      "srcset": "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=2048,height=2560/image/519050432/ec16f839-aa33-49d7-8e03-92ca43e24803.jpg 2048w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=1536,height=1920/image/519050432/ec16f839-aa33-49d7-8e03-92ca43e24803.jpg 1536w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=1280,height=1600/image/519050432/ec16f839-aa33-49d7-8e03-92ca43e24803.jpg 1280w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=1152,height=1440/image/519050432/ec16f839-aa33-49d7-8e03-92ca43e24803.jpg 1152w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=1024,height=1280/image/519050432/ec16f839-aa33-49d7-8e03-92ca43e24803.jpg 1024w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=819,height=1024/image/519050432/ec16f839-aa33-49d7-8e03-92ca43e24803.jpg 819w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=640,height=800/image/519050432/ec16f839-aa33-49d7-8e03-92ca43e24803.jpg 640w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=512,height=640/image/519050432/ec16f839-aa33-49d7-8e03-92ca43e24803.jpg 512w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=384,height=480/image/519050432/ec16f839-aa33-49d7-8e03-92ca43e24803.jpg 384w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=256,height=320/image/519050432/ec16f839-aa33-49d7-8e03-92ca43e24803.jpg 256w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=160;0;160;0,width=128,height=160/image/519050432/ec16f839-aa33-49d7-8e03-92ca43e24803.jpg 128w",
+      "sizes": "(min-width:1441px) 1440px,(min-width:1281px) 1280px,(max-width:900px) 100vw,(max-width:1440px) 900px",
+      "alt": "",
+      "loading": "lazy"
+    },
+    {
+      "class": "WCO6N",
+      "style": "width:100%",
+      "draggable": "false",
+      "srcset": "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=2560,height=2560/image/519050435/8796219c-2712-45f0-a8cc-2aec31aca199.jpg 2560w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=1920,height=1920/image/519050435/8796219c-2712-45f0-a8cc-2aec31aca199.jpg 1920w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=1600,height=1600/image/519050435/8796219c-2712-45f0-a8cc-2aec31aca199.jpg 1600w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=1440,height=1440/image/519050435/8796219c-2712-45f0-a8cc-2aec31aca199.jpg 1440w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=1280,height=1280/image/519050435/8796219c-2712-45f0-a8cc-2aec31aca199.jpg 1280w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=1024,height=1024/image/519050435/8796219c-2712-45f0-a8cc-2aec31aca199.jpg 1024w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=800,height=800/image/519050435/8796219c-2712-45f0-a8cc-2aec31aca199.jpg 800w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=640,height=640/image/519050435/8796219c-2712-45f0-a8cc-2aec31aca199.jpg 640w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=480,height=480/image/519050435/8796219c-2712-45f0-a8cc-2aec31aca199.jpg 480w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=320,height=320/image/519050435/8796219c-2712-45f0-a8cc-2aec31aca199.jpg 320w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=640;0;640;0,width=160,height=160/image/519050435/8796219c-2712-45f0-a8cc-2aec31aca199.jpg 160w",
+      "sizes": "(min-width:1441px) 1440px,(min-width:1281px) 1280px,(max-width:900px) 100vw,(max-width:1440px) 900px",
+      "alt": "",
+      "loading": "lazy"
+    },
+    {
+      "class": "WCO6N",
+      "style": "width:100%",
+      "draggable": "false",
+      "srcset": "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=361;633;812;1820,width=2560,height=2560/image/519050430/72553819-bc6b-4b57-a7d0-848c431dd976.jpg 2560w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=361;633;812;1820,width=1920,height=1920/image/519050430/72553819-bc6b-4b57-a7d0-848c431dd976.jpg 1920w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=361;633;812;1820,width=1600,height=1600/image/519050430/72553819-bc6b-4b57-a7d0-848c431dd976.jpg 1600w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=361;633;812;1820,width=1440,height=1440/image/519050430/72553819-bc6b-4b57-a7d0-848c431dd976.jpg 1440w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=361;633;812;1820,width=1280,height=1280/image/519050430/72553819-bc6b-4b57-a7d0-848c431dd976.jpg 1280w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=361;633;812;1820,width=1024,height=1024/image/519050430/72553819-bc6b-4b57-a7d0-848c431dd976.jpg 1024w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=361;633;812;1820,width=800,height=800/image/519050430/72553819-bc6b-4b57-a7d0-848c431dd976.jpg 800w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=361;633;812;1820,width=640,height=640/image/519050430/72553819-bc6b-4b57-a7d0-848c431dd976.jpg 640w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=361;633;812;1820,width=480,height=480/image/519050430/72553819-bc6b-4b57-a7d0-848c431dd976.jpg 480w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=361;633;812;1820,width=320,height=320/image/519050430/72553819-bc6b-4b57-a7d0-848c431dd976.jpg 320w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=361;633;812;1820,width=160,height=160/image/519050430/72553819-bc6b-4b57-a7d0-848c431dd976.jpg 160w",
+      "sizes": "(min-width:1441px) 1440px,(min-width:1281px) 1280px,(max-width:900px) 100vw,(max-width:1440px) 900px",
+      "alt": "",
+      "loading": "lazy"
+    },
+    {
+      "class": "WCO6N",
+      "style": "width:100%",
+      "draggable": "false",
+      "srcset": "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=1312;808;1956;1181,width=1600,height=1600/image/519050431/569d0e06-01ad-440c-bf89-a04f1395cc4f.jpg 1600w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=1312;808;1956;1181,width=1440,height=1440/image/519050431/569d0e06-01ad-440c-bf89-a04f1395cc4f.jpg 1440w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=1312;808;1956;1181,width=1280,height=1280/image/519050431/569d0e06-01ad-440c-bf89-a04f1395cc4f.jpg 1280w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=1312;808;1956;1181,width=1024,height=1024/image/519050431/569d0e06-01ad-440c-bf89-a04f1395cc4f.jpg 1024w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=1312;808;1956;1181,width=800,height=800/image/519050431/569d0e06-01ad-440c-bf89-a04f1395cc4f.jpg 800w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=1312;808;1956;1181,width=640,height=640/image/519050431/569d0e06-01ad-440c-bf89-a04f1395cc4f.jpg 640w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=1312;808;1956;1181,width=480,height=480/image/519050431/569d0e06-01ad-440c-bf89-a04f1395cc4f.jpg 480w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=1312;808;1956;1181,width=320,height=320/image/519050431/569d0e06-01ad-440c-bf89-a04f1395cc4f.jpg 320w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=1312;808;1956;1181,width=160,height=160/image/519050431/569d0e06-01ad-440c-bf89-a04f1395cc4f.jpg 160w",
+      "sizes": "(min-width:1441px) 1440px,(min-width:1281px) 1280px,(max-width:900px) 100vw,(max-width:1440px) 900px",
+      "alt": "",
+      "loading": "lazy"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "/"
+    },
+    {
+      "text": "FeToMa VT",
+      "href": "/"
+    },
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Eventtechnik",
+      "href": "/eventtechnik/"
+    },
+    {
+      "text": "Dekoration",
+      "href": "/dekoration/"
+    },
+    {
+      "text": "Kontakt",
+      "href": "/kontakt/"
+    },
+    {
+      "text": "\n    \n        \n            \n                \n            \n        \n    ",
+      "href": "https://www.instagram.com/fetoma_veranstaltungstechnik/"
+    },
+    {
+      "text": "\n    \n        \n            \n        \n        \n            \n            \n        \n        \n    ",
+      "href": "https://wa.me/491719108314"
+    },
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Eventtechnik",
+      "href": "/eventtechnik/"
+    },
+    {
+      "text": "Dekoration",
+      "href": "/dekoration/"
+    },
+    {
+      "text": "Kontakt",
+      "href": "/kontakt/"
+    },
+    {
+      "text": "\n                    \n                        \n                            \n                                \n                            \n                        \n                    \n                ",
+      "href": "#"
+    },
+    {
+      "text": "Impressum",
+      "href": "/impressum/"
+    },
+    {
+      "text": "Datenschutz",
+      "href": "/datenschutz/"
+    },
+    {
+      "text": "Cookie-Einstellungen",
+      "href": "/cookie-einstellungen/"
+    },
+    {
+      "text": "Vertrag widerrufen",
+      "href": "/widerruf/"
+    },
+    {
+      "text": "\n                \n                    \n                        \n                            \n                                \n                                \n                            \n                        \n                    \n                \n            "
+    },
+    {
+      "text": "Mehr anzeigen",
+      "href": "javascript:void(0)"
+    },
+    {
+      "text": "Impressum",
+      "href": "/impressum/"
+    },
+    {
+      "text": "Datenschutz",
+      "href": "/datenschutz/"
+    },
+    {
+      "text": "Alle akzeptieren"
+    },
+    {
+      "text": "Alle ablehnen"
+    },
+    {
+      "text": "Nur Auswahl akzeptieren"
+    }
+  ],
+  "css": [
+    "https://static-assets.jimstatic.com/renderer/static/41bfcdab7a7a8d7c0715.css",
+    "https://fonts.jimstatic.com/css?display=swap&family=Playfair+Display:700,900",
+    "https://fonts.jimstatic.com/css?display=swap&family=Mukta:400,700"
+  ]
+}

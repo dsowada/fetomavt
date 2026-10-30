@@ -1,0 +1,105 @@
+{
+  "page": "impressum",
+  "images": [
+    {
+      "class": "WCO6N DBTrh",
+      "style": "width:100%",
+      "draggable": "false",
+      "srcset": "https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=1600,height=900/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 1600w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=1440,height=810/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 1440w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=1280,height=720/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 1280w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=1024,height=576/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 1024w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=800,height=450/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 800w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=640,height=360/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 640w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=480,height=270/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 480w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=320,height=180/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 320w, https://storage.e.jimdo.com/cdn-cgi/image/quality=85,fit=scale-down,format=auto,trim=0;0;0;0,width=160,height=90/image/519055820/42531025-062a-48cf-8d58-ae32318de867.png 160w",
+      "sizes": "(min-width:1441px) 20vw,(min-width:1281px) 30vw,(min-width:801px) 50vw,(max-width:800px) 75vw,",
+      "alt": "",
+      "loading": "lazy"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "/"
+    },
+    {
+      "text": "FeToMa VT",
+      "href": "/"
+    },
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Eventtechnik",
+      "href": "/eventtechnik/"
+    },
+    {
+      "text": "Dekoration",
+      "href": "/dekoration/"
+    },
+    {
+      "text": "Kontakt",
+      "href": "/kontakt/"
+    },
+    {
+      "text": "[email protected]",
+      "href": "/cdn-cgi/l/email-protection"
+    },
+    {
+      "text": "Gabriel Domingues Leão da Costa",
+      "href": "https://unsplash.com/photos/cew-O_O5Bdg?utm_source=jimdo_dolphin&utm_medium=referral"
+    },
+    {
+      "text": "Unsplash",
+      "href": "https://unsplash.com/?utm_source=jimdo_dolphin&utm_medium=referral"
+    },
+    {
+      "text": "Conor Brown",
+      "href": "https://unsplash.com/photos/yaaj4lSMDUU?utm_source=jimdo_dolphin&utm_medium=referral"
+    },
+    {
+      "text": "Unsplash",
+      "href": "https://unsplash.com/?utm_source=jimdo_dolphin&utm_medium=referral"
+    },
+    {
+      "text": "Tom Swinnen",
+      "href": "https://unsplash.com/photos/Y8Mf15OkjAY?utm_source=jimdo_dolphin&utm_medium=referral"
+    },
+    {
+      "text": "Unsplash",
+      "href": "https://unsplash.com/?utm_source=jimdo_dolphin&utm_medium=referral"
+    },
+    {
+      "text": "James Cousins",
+      "href": "https://unsplash.com/photos/nBHT1k1nHfc?utm_source=jimdo_dolphin&utm_medium=referral"
+    },
+    {
+      "text": "Unsplash",
+      "href": "https://unsplash.com/?utm_source=jimdo_dolphin&utm_medium=referral"
+    },
+    {
+      "text": "Artur Łuczka",
+      "href": "https://unsplash.com/photos/lgbbUZ7VHJI?utm_source=jimdo_dolphin&utm_medium=referral"
+    },
+    {
+      "text": "Unsplash",
+      "href": "https://unsplash.com/?utm_source=jimdo_dolphin&utm_medium=referral"
+    },
+    {
+      "text": "Impressum",
+      "href": "/impressum/"
+    },
+    {
+      "text": "Datenschutz",
+      "href": "/datenschutz/"
+    },
+    {
+      "text": "Cookie-Einstellungen",
+      "href": "/cookie-einstellungen/"
+    },
+    {
+      "text": "Vertrag widerrufen",
+      "href": "/widerruf/"
+    }
+  ],
+  "css": [
+    "https://static-assets.jimstatic.com/renderer/static/41bfcdab7a7a8d7c0715.css",
+    "https://fonts.jimstatic.com/css?display=swap&family=Playfair+Display:700,900",
+    "https://fonts.jimstatic.com/css?display=swap&family=Mukta:400,700"
+  ]
+}

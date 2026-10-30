@@ -1,0 +1,21 @@
+{
+  "name": "fetoma-website",
+  "version": "1.0.0",
+  "description": "Lokale Überarbeitung von FeToMa Veranstaltungstechnik",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/serve.mjs",
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "@playwright/test": "^1.64.1",
+    "cheerio": "^1.2.0",
+    "sharp": "^0.35.5"
+  },
+  "private": true
+}
